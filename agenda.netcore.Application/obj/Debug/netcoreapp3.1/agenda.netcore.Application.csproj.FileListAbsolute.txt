@@ -1,0 +1,14 @@
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\obj\Debug\netcoreapp3.1\agenda.netcore.Application.csproj.AssemblyReference.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\obj\Debug\netcoreapp3.1\agenda.netcore.Application.AssemblyInfoInputs.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\obj\Debug\netcoreapp3.1\agenda.netcore.Application.AssemblyInfo.cs
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\obj\Debug\netcoreapp3.1\agenda.netcore.Application.csproj.CoreCompileInputs.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\bin\Debug\netcoreapp3.1\agenda.netcore.Application.deps.json
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\bin\Debug\netcoreapp3.1\agenda.netcore.Application.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\bin\Debug\netcoreapp3.1\agenda.netcore.Application.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\bin\Debug\netcoreapp3.1\agenda.netcore.Domain.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\bin\Debug\netcoreapp3.1\agenda.netcore.Domain.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\obj\Debug\netcoreapp3.1\agenda.netcore.Application.csproj.CopyComplete
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\obj\Debug\netcoreapp3.1\agenda.netcore.Application.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\obj\Debug\netcoreapp3.1\agenda.netcore.Application.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\bin\Debug\netcoreapp3.1\agenda.netcore.Application.xml
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Application\obj\Debug\netcoreapp3.1\agenda.netcore.Application.xml

@@ -1,0 +1,8 @@
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Domain\bin\Debug\netcoreapp3.1\agenda.netcore.Domain.deps.json
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Domain\bin\Debug\netcoreapp3.1\agenda.netcore.Domain.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Domain\bin\Debug\netcoreapp3.1\agenda.netcore.Domain.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Domain\obj\Debug\netcoreapp3.1\agenda.netcore.Domain.AssemblyInfoInputs.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Domain\obj\Debug\netcoreapp3.1\agenda.netcore.Domain.AssemblyInfo.cs
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Domain\obj\Debug\netcoreapp3.1\agenda.netcore.Domain.csproj.CoreCompileInputs.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Domain\obj\Debug\netcoreapp3.1\agenda.netcore.Domain.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Domain\obj\Debug\netcoreapp3.1\agenda.netcore.Domain.pdb

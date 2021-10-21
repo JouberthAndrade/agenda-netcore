@@ -1,0 +1,8 @@
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Tests\bin\Debug\netcoreapp3.1\agenda.netcore.Tests.deps.json
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Tests\bin\Debug\netcoreapp3.1\agenda.netcore.Tests.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Tests\bin\Debug\netcoreapp3.1\agenda.netcore.Tests.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Tests\obj\Debug\netcoreapp3.1\agenda.netcore.Tests.AssemblyInfoInputs.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Tests\obj\Debug\netcoreapp3.1\agenda.netcore.Tests.AssemblyInfo.cs
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Tests\obj\Debug\netcoreapp3.1\agenda.netcore.Tests.csproj.CoreCompileInputs.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Tests\obj\Debug\netcoreapp3.1\agenda.netcore.Tests.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.Tests\obj\Debug\netcoreapp3.1\agenda.netcore.Tests.pdb

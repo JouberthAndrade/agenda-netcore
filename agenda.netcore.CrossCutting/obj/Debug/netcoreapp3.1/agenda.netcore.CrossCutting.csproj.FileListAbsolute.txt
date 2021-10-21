@@ -1,0 +1,17 @@
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\obj\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.csproj.AssemblyReference.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\obj\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.AssemblyInfoInputs.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\obj\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.AssemblyInfo.cs
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\obj\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.csproj.CoreCompileInputs.cache
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.deps.json
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.Application.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.Domain.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.Infra.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.Application.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.Domain.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.Infra.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\obj\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.csproj.CopyComplete
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\obj\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.dll
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\obj\Debug\netcoreapp3.1\agenda.netcore.CrossCutting.pdb
+D:\Framework\bootcamp\Projetos\agenda.netcore\agenda.netcore.CrossCutting\bin\Debug\netcoreapp3.1\agenda.netcore.Application.xml

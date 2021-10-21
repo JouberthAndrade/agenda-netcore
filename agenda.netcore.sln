@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda.netcore.api", "agenda.netcore.api\agenda.netcore.api.csproj", "{3F471BE8-AD2C-4E75-8B1C-7367E275BBFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda.netcore.Application", "agenda.netcore.Application\agenda.netcore.Application.csproj", "{E85392E0-4C76-4BEB-A3A4-1FDED1EB8D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda.netcore.CrossCutting", "agenda.netcore.CrossCutting\agenda.netcore.CrossCutting.csproj", "{BE30C8F8-F2F9-4F01-B856-BA755683207A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda.netcore.Domain", "agenda.netcore.Domain\agenda.netcore.Domain.csproj", "{CDB2BDDC-D29A-4576-8908-D6A0FFF1DE07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda.netcore.Infra", "agenda.netcore.Infra\agenda.netcore.Infra.csproj", "{341A1CCD-2CAF-4C2F-A44A-B5343CF22129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agenda.netcore.Tests", "agenda.netcore.Tests\agenda.netcore.Tests.csproj", "{42B6D6ED-2B04-4B4F-BEE2-E0187975DFBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F471BE8-AD2C-4E75-8B1C-7367E275BBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F471BE8-AD2C-4E75-8B1C-7367E275BBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F471BE8-AD2C-4E75-8B1C-7367E275BBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F471BE8-AD2C-4E75-8B1C-7367E275BBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85392E0-4C76-4BEB-A3A4-1FDED1EB8D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85392E0-4C76-4BEB-A3A4-1FDED1EB8D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85392E0-4C76-4BEB-A3A4-1FDED1EB8D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85392E0-4C76-4BEB-A3A4-1FDED1EB8D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE30C8F8-F2F9-4F01-B856-BA755683207A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE30C8F8-F2F9-4F01-B856-BA755683207A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE30C8F8-F2F9-4F01-B856-BA755683207A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE30C8F8-F2F9-4F01-B856-BA755683207A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB2BDDC-D29A-4576-8908-D6A0FFF1DE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB2BDDC-D29A-4576-8908-D6A0FFF1DE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB2BDDC-D29A-4576-8908-D6A0FFF1DE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB2BDDC-D29A-4576-8908-D6A0FFF1DE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341A1CCD-2CAF-4C2F-A44A-B5343CF22129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341A1CCD-2CAF-4C2F-A44A-B5343CF22129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341A1CCD-2CAF-4C2F-A44A-B5343CF22129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341A1CCD-2CAF-4C2F-A44A-B5343CF22129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B6D6ED-2B04-4B4F-BEE2-E0187975DFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B6D6ED-2B04-4B4F-BEE2-E0187975DFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B6D6ED-2B04-4B4F-BEE2-E0187975DFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B6D6ED-2B04-4B4F-BEE2-E0187975DFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C4F0AB-EA9B-4B1E-85A3-68531237E0C5}
+	EndGlobalSection
+EndGlobal

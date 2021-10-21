@@ -1,0 +1,65 @@
+using agenda.netcore.CrossCutting.Assemblies;
+using agenda.netcore.CrossCutting.Configurations;
+using agenda.netcore.CrossCutting.IoC;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Serialization;
+
+namespace agenda.netcore
+{
+	public class Startup
+	{
+		public Startup(IConfiguration configuration)
+		{
+			Configuration = configuration;
+		}
+
+		public IConfiguration Configuration { get; }
+
+		// This method gets called by the runtime. Use this method to add services to the container.
+		public void ConfigureServices(IServiceCollection services)
+		{
+			services.AddRouting(options => options.LowercaseUrls = true);
+			services.AddControllers();
+
+			services.AddAutoMapper(AssemblyUtil.GetCurrentAssemblies());
+			
+			services.AddDependencyResolver();
+
+			services.AddSwaggerDocumentation();
+
+			JsonConvert.DefaultSettings = () => new JsonSerializerSettings()
+			{
+				ContractResolver = new CamelCasePropertyNamesContractResolver()
+			};
+		}
+
+		// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+		public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+		{
+			if (env.IsDevelopment())
+			{
+				app.UseDeveloperExceptionPage();
+			}
+
+			app.UsePathBase("/agenda-netcore");
+
+			app.UseHttpsRedirection();
+
+			app.UseSwaggerDocumentation();
+
+			app.UseRouting();
+
+			app.UseAuthorization();
+
+			app.UseEndpoints(endpoints =>
+			{
+				endpoints.MapControllers();
+			});
+		}
+	}
+}
